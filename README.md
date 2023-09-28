@@ -15,7 +15,6 @@ To validate and cross-check the data, you can always run monnbot to monitor the 
 
 **Funding/Spread Scanning**
 
-![Screenshot 2023-09-28 at 6 06 50 PM](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/c2dc2682-e1f2-4c6e-a41b-0082b7480833)
 ![monnbot24](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/4b24b923-27ff-475f-bf41-930c700504fb)
 
 
