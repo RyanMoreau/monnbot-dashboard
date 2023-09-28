@@ -1,5 +1,5 @@
 # Monnbot Dashboard
-Welcome to the Monnbot Dashboard, the official visual interface designed to seamlessly complement the Monnbot CLI. Dive into FTX markets and easily identify funding and cash and carry opportunities without the manual hassle. I've migrated this here from my personal Gitlab repo in hopes someone finds it interesting. Due to the FTX scandal, I've decided to open source a trading system (CLI and Dashboard) I built to capture funding rates and spreads of cryptocurrency pairs.
+Welcome to the Monnbot Dashboard, the official visual interface designed to seamlessly complement the Monnbot CLI. Dive into FTX markets and easily identify funding and cash and carry opportunities without the manual hassle. I've migrated this here from my personal Gitlab repo in hopes someone finds it interesting. Due to the FTX scandal, I've decided to open source a trading system (CLI, Dashboard, & Server) I built to capture funding rates and spreads of cryptocurrency pairs.
 
 ## 🚀 Features
 - *Position Sizing Calculator:* No more manual calculations. Get the ideal position size for your trades instantly.
