@@ -15,24 +15,23 @@ To validate and cross-check the data, you can always run monnbot to monitor the 
 
 **Funding/Spread Scanning**
 
-![monnbot24](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/4b24b923-27ff-475f-bf41-930c700504fb)
-
+![monnbot24](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/53aa2fae-05d3-45ee-8840-eacf65885755)
 
 **Inner Page View**
 
-![monnbot3](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/8858a785-3629-4ca0-9988-4cc01903d770)
-![monnbot8](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/70c69a66-dc30-401f-81dc-a25ee46901e5)
-![monnbot14](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/2ed4553a-27e4-4e7e-9259-816d9b88829d)
-![monnbot26](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/51ade18e-795a-4d39-8527-307c3543c42a)
+![monnbot3](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/cb01f1bb-f576-493d-b254-0eb90a4510b0)
+![monnbot8](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/39f4d5f4-aabb-478a-836f-d22fcf82f9e3)
+![monnbot14](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/afb86d75-7d78-44d7-945a-903aac3c638e)
+![monnbot26](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/a37860cc-d961-4eb3-8428-409cb02bb6f6)
 
 **Cash & Carry**
 Fun fact: Definitely a lot easier doing cash and carry with spot collateral 😉
 
-![monnbot25](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/26fa9323-20b8-412b-ab7d-2b285e1d1a89)
+![monnbot25](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/7d0b946c-f572-40e9-8f42-94f671bb2b7a)
 
 **Custom Spread Charts**
 
-![monnbot15](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/bb45741b-b1be-4c90-af34-45881a9fe2ae)
-![monnbot23](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/cfe1b914-87eb-43ce-a305-6193221c5982)
-![monnbot17](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/e732c487-d909-4f72-9354-fcf8847ee53f)
-![monnbot21](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/96abbf93-d40d-4d3c-9cf0-fa8d78354509)
+![monnbot15](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/9211c7b1-d9cc-442d-abd7-4bc5f02de76d)
+![monnbot23](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/9087e065-581f-42b8-80e8-ad40b4b14fef)
+![monnbot17](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/2fa9c64c-894e-4f06-b4ab-73b8c7757e6b)
+![monnbot21](https://github.com/RyanMoreau/monnbot-dashboard/assets/3619317/32fe389a-7c8c-47d6-a492-8ad1ff6ffd6b)
